@@ -9,7 +9,7 @@ var serviceAccount = require("../permission.json");
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
-  databaseURL: "https://zigazoo-assignment-app.firebaseio.com"
+  databaseURL: "..your database url"
 });
 
 
