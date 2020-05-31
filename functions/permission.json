@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "zigazoo-assignment-app",
+  "private_key_id": "c7073d5cfa8c336f5a1033621fe92884161efc13",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDG8Nq8daumtAuY\nQGYEH+JjDxCmjBVZhdXYSGYxAbkCRIiauZ5A40jRjfGpQbkQYPeEJhSmW059HXB1\n3VvSMFNJy4El7+3Fs1fGrAD6iHi7hYmWZDA9YsalmxNlgFrzqLc1607Wlx9/8ViH\nUx+W93hpTNdPcBxKWxCEjkb9+f/JvC76Aa9dLiyk0Et0srVaMBSpk+1qK7PXxFgn\nGdwmjafU8HYI+BHWrY/4pPcn/Seb4zkn9fwDD/UNNB86Ra9wU1KEZB/ZJwGtPxRs\nmT46hjGPYjBjaPvkN1Qc11PubBX3er9zwaLA118vkCe92W2j0fdoVeGBFbG0J0OA\nxWU3tetRAgMBAAECggEAI4t2MZT+sd7acX4UHCmMO/G9olxGFkQ05Jtu8tOheDfB\nho+iqGpToOlxI7Iz/CqvHsPlDaIjwHQJm22NEd2DjBxZu2sGezvjc4JY/Gp00+B0\nqFPHULh80KsICKsp1P4wmegsomfG/4eiLy+ZZdJah8nscGuSCnEB3wVCxu8rliIB\n/N7VeWUVFJ9h9FD2dhRb96hwjy0vfuMQb0g7QvYm1zoHUXlVuu46ZhIFoqIw0Ba4\nmpZxBOi2d1a6OcogdP2gSWTI+ZwLGxtDQ+uOCiSkh0QfO94h0tKw1wz/nyevQsnI\nlriER6DuU2M6x16q+EqfrrQMmdx5n6jJuYhoQwP+KQKBgQD1wYnMr7EYp3cOyvxa\nu0VX5YGFf2IF0p6KSVD86zPvOLvD1Fu4F1b6Ro8Mimjg40RSimzZZqQG5lrCem0w\nsvZmiBsHEThFa77HWLEjzj2Krby8i+JtpIRtpVgJpemz0vLGHk8BRxCm56kHjb6p\nw6OoK8YgeHCFqdiHBXFUorh21QKBgQDPO8BoNZqVCj+Rj9yTHN8KM+xF130c+2ri\nBupdUfKF6dqLdDo/qNev5DUTvFUulvZm0mBnIbOqBtwgYuwGHwhDiKcZDnuUlToS\nAERdPd2Tevnt92/eeX4FozcKnbN9E/ghuY3ktf39Tha3ilq/4DCVc7oKYnzj+m0j\ng1wojlaYjQKBgQDGdHrN4xb1HM8FECBHOLFfsIMuhdZnc1T5wQj4pQr0ZHEkS8mh\nWJ+xTedYrjDRYlWa/hO2X6+Xrs+d+vVP/UUDOWfyBhLV5JNUMagijPqfkXs3GxNH\njTIvxPTaHbQitfe8y17rXjLxRWP3KJzORKFVPbwqHnhnR+gF6PxC54Bk3QKBgBPK\nnhaVv/yp7OZG+gbmw/pieRc2fFFvRYbuqCVfdS0K539YC1QXGPpIbjVDUFNRwZiS\nUPiohFMhspY5PFddUVm5zFOdSXooQlKDygOpq+aw4Pu0HO//ZGS/cLtH0mOIq7L0\n2LNWGjq94XeH9CDNFXbAha0GOO1A9nlky0FoTqblAoGBAJWgo/dbv+PBnn4zzDYg\n/yneS2hR1FscG2UbVk+4MkagW4wBds36oxZQcHByjdPSuxlYiXES7MF/IuSQ3TCR\nFBEwOtDW9n+w8eBdSZfiDeLK0r7uePSxla8FDY2BIHFZwsG9cVM8oOeVJ51XI7VM\nD5kTk4XQQiwyQcWz8Hc2sW6D\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-t3tom@zigazoo-assignment-app.iam.gserviceaccount.com",
+  "client_id": "117183232351254165534",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-t3tom%40zigazoo-assignment-app.iam.gserviceaccount.com"
+}
