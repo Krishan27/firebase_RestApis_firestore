@@ -53,7 +53,7 @@ node_modules/
 .eslintcache
 
 # permission file
-.permission.json*
+permission.json
 
 
 # Optional REPL history
